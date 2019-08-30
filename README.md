@@ -1,2 +1,2 @@
 # Adversarial-Examples-on-Neural-Networks
-Bachelor of Engineering dissertation
+Bachelor of Engineering thesis
