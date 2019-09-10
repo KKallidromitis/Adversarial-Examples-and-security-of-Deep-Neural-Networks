@@ -1,5 +1,5 @@
 # Adversarial-Examples-on-Neural-Networks
-I was always fascinated how deep learning was so "intelligent" and could outperform all machine learning algorithms. So for my thesis I decided to embarass the cutting edge deep learning networks by applying attacks and observing how ethey compare against a human.
+I was always fascinated how deep learning was so "intelligent" and could outperform all machine learning algorithms. So for my thesis I decided to embarass the cutting edge deep learning networks by applying attacks and observing how they compare against a human.
 <p align="center"><b> Example of high confidence misclassification (over 99%) </b></p>
 <p align="center">
   <img src="https://github.com/KKarrasKallidromitis/Adversarial-Examples-on-Neural-Networks/blob/master/misclassification_sample.png">
