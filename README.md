@@ -17,3 +17,14 @@ Adversarial attacks are generated on ResNet Neural networks in PyTorch and defen
 <p align="center">
   <img src="https://github.com/KKarrasKallidromitis/Adversarial-Examples-on-Neural-Networks/blob/master/invisgauss.PNG" width="700">
 </p>
+
+## Graffiti Attacks on German Traffic Sign Dataset
+The conclusion from our experiments was that an adversary can easily cause severe issues in security-critical systems that must perform well at all times. Its important to study the impact of adversarial attacks on video, to examine if different angles across frames, either from a vehicle or camera, are amore robust to missclasifications.
+
+
+| Type        | Size  | Portion of Image | Colours     | # of parts| Total Accuracy (%) |
+|-------------|-------|------------------|-------------|-----------|--------------------|
+| Base Model  | -     |  -               | -           | -         |        94.82       |
+| Attack 1    | 900   |  7.2%            | Black       | 3         |        2.61        |
+| Attack 2    | 400   |  3.2%            | White       | 1         |        57.42       |
+| Attack 3    | 500   |  4.0%            | Black/White | 4         |        7.44        |
